@@ -35,8 +35,8 @@ Se trata del backend de un sistema de foros educativos donde usuarios pueden cre
 
 ## 📂 Estructura del proyecto
 
-
-```src/
+```
+src/
 └── main/
     ├── java/
     │   └── com/victor/forohub/
@@ -46,7 +46,8 @@ Se trata del backend de un sistema de foros educativos donde usuarios pueden cre
     │       └── infra/
     └── resources/
         ├── application.properties
-        └── db/migration/´´´
+        └── db/migration/
+  ```      
 
 
 🧪 Cómo ejecutar el proyecto localmente
