@@ -36,17 +36,18 @@ Se trata del backend de un sistema de foros educativos donde usuarios pueden cre
 ## 📂 Estructura del proyecto
 
 
-src/
- └── main/
-      ├── java/
-      │    └── com.victor.forohub/
-      │         ├── topico/
-      │         ├── usuario/
-      │         ├── seguridad/
-      │         └── infra/
-      └── resources/
-           ├── application.properties
-           └── db/migration/
+```src/
+└── main/
+    ├── java/
+    │   └── com/victor/forohub/
+    │       ├── topico/
+    │       ├── usuario/
+    │       ├── seguridad/
+    │       └── infra/
+    └── resources/
+        ├── application.properties
+        └── db/migration/´´´
+
 
 🧪 Cómo ejecutar el proyecto localmente
 1. Clonar el repositorio:
